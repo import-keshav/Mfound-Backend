@@ -1,0 +1,1 @@
+{"statusCode":500,"result":{"code":"ER_BAD_NULL_ERROR","errno":1048,"sqlMessage":"Column 'user_id' cannot be null","sqlState":"23000","index":0,"sql":"INSERT INTO push_notifications set `user_id` = NULL, `notifyText` = 'test', `notifyAmount` = '10', `lost_id` = 1009"},"level":"error","message":"API - /api/v2/docs"}

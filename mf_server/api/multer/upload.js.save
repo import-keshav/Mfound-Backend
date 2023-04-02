@@ -1,0 +1,39 @@
+const multer = require('multer');
+const multerS3 = require('multer-s3');
+const s3 = require('../credentials/aws-s3');
+
+const upload = multer({
+  storage: multerS3({
+    s3: s3,
+    bucket: process.env.AWS_BUCKET_NAME_S3,
+    contentType: multerS3.AUTO_CONTENT_TYPE,
+    acl: 'public-read',
+    
+    key: function (req, file, cb) {console.log(file);
+      let fileName = file.originalname;
+      switch(file.fieldname){
+        case 'lost_image':
+        cb(null, "lost/"+fileName+"");
+        break;
+        case 'found_image':
+        cb(null, "found/"+fileName+"");
+        break;
+        case 'docs_image':
+        cb(null, "docs/"+fileName+"");
+        break;
+        case 'enquiry_image':
+        cb(null, "enquiry/"+fileName+"");
+        break;
+        case 'image':
+        cb(null, "profiles/"+fileName+"");
+        break;
+        case 'thumb_image':
+        cb(null, "found/"+fileName+"");
+      }
+      
+    }
+  })
+}).any()
+
+module.exports = upload;
+

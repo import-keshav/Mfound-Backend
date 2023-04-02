@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/static/js/main.57fa4f79.js",
+    "static/media/path51.png": "/static/media/path51.d405bc1ababe2864cbd9.png",
+    "static/media/instagram.png": "/static/media/instagram.52ef6fc8d7a870e7e52c.png",
+    "static/media/login-mask-1.png": "/static/media/login-mask-1.b5b5f85367160c7e6c8a.png",
+    "static/media/footer-logo.png": "/static/media/footer-logo.2015de604434bdea841f.png",
+    "static/media/about-us.png": "/static/media/about-us.10594b70545fcca81a39.png",
+    "static/media/mpathimg.png": "/static/media/mpathimg.9627d960ebdd480c259b.png",
+    "static/media/bank.png": "/static/media/bank.6c9d4d4c22add3f2713a.png",
+    "static/media/mobile.png": "/static/media/mobile.1a06074c7a8154688714.png",
+    "static/media/twitter.png": "/static/media/twitter.8a7393ea556f3101561b.png",
+    "static/media/pathimg.png": "/static/media/pathimg.c3ae9d957619fcbc7689.png",
+    "static/media/loved-one.png": "/static/media/loved-one.e4d3cfcdbe5b23382bcc.png",
+    "static/media/GothaProBol_0.otf": "/static/media/GothaProBol_0.862396a1bd5d8613b8c0.otf",
+    "static/media/GothaProReg_0.otf": "/static/media/GothaProReg_0.db405428a4cf91ba01a6.otf",
+    "static/media/logo-mfound.png": "/static/media/logo-mfound.3b2a342da489cc38f0d9.png",
+    "static/media/mfound-app.png": "/static/media/mfound-app.61d21907ed2ed3c8d955.png",
+    "static/media/youtube.png": "/static/media/youtube.2857bf34280d218e32e6.png",
+    "static/media/secure-loved-one.png": "/static/media/secure-loved-one.9b5ca4ce95fcb08077b0.png",
+    "static/media/facebook.png": "/static/media/facebook.c5beee3b95b877a99af5.png",
+    "static/media/missing-person.png": "/static/media/missing-person.c34018233c71b37c9652.png",
+    "static/media/reward-person.png": "/static/media/reward-person.2c8ed84ed5077fdf7886.png",
+    "static/media/location.png": "/static/media/location.606b02d4a6d7ce954d0e.png",
+    "static/media/google_play.png": "/static/media/google_play.009e4e536296bf300f84.png",
+    "static/media/app_store.png": "/static/media/app_store.8015c6613d583250e7af.png",
+    "static/media/door-step-delivery.png": "/static/media/door-step-delivery.d05400d4daa7b2f373fb.png",
+    "index.html": "/index.html",
+    "main.57fa4f79.js.map": "/static/js/main.57fa4f79.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.57fa4f79.js"
+  ]
+}

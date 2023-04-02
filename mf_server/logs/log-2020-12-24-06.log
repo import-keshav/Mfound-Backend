@@ -1,0 +1,1 @@
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'type' in 'where clause'","sqlState":"42S22","index":0,"sql":"SELECT * FROM  docs WHERE type= 'person'  ","level":"error","message":"API - /api/v2/match/found"}

@@ -1,0 +1,1 @@
+{"statusCode":500,"result":{"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlMessage":"Table 'mfoundin_mfoundDB.category' doesn't exist","sqlState":"42S02","index":0,"sql":"SELECT  * FROM  category  WHERE type = \"lost\" ORDER BY id DESC  "},"level":"error","message":"API - /api/v1/category/:type"}

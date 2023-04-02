@@ -1,0 +1,6 @@
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v2/lost"}
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v2/home"}
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v1/category/:type"}
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v2/home"}
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v1/category/:type"}
+{"statusCode":500,"result":{"code":"PROTOCOL_ENQUEUE_AFTER_FATAL_ERROR","fatal":false},"level":"error","message":"API - /api/v2/lost"}

@@ -1,0 +1,1 @@
+{"statusCode":500,"result":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","fatal":true},"level":"error","message":"API - /api/v2/auth/login"}

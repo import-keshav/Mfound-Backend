@@ -1,0 +1,1 @@
+{"statusCode":500,"result":{"code":"ER_NON_UNIQ_ERROR","errno":1052,"sqlMessage":"Column 'user_id' in where clause is ambiguous","sqlState":"23000","index":0,"sql":"SELECT   lost.*, payment.status    FROM  lost   LEFT JOIN payment ON payment.user_id = lost.id    WHERE user_id = \"388\" ORDER BY id DESC  "},"level":"error","message":"API - /api/v2/lost"}

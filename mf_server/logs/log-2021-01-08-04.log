@@ -1,0 +1,3 @@
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'item' in 'where clause'","sqlState":"42S22","index":0,"sql":"SELECT * FROM  docs where item='person'  ","level":"error","message":"API - /api/v2/match/found"}
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'item' in 'where clause'","sqlState":"42S22","index":0,"sql":"SELECT * FROM  lost where item='person'  ","level":"error","message":"API - /api/v2/match/found"}
+{"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlMessage":"Unknown column 'type' in 'where clause'","sqlState":"42S22","index":0,"sql":"SELECT * FROM  docs where type='person'  ","level":"error","message":"API - /api/v2/match/found"}

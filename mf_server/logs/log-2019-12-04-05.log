@@ -1,0 +1,1 @@
+{"statusCode":500,"result":{"code":"ER_QUERY_INTERRUPTED","errno":1317,"sqlMessage":"Query execution was interrupted","sqlState":"70100","index":0,"sql":"INSERT INTO qr_image set `code` = 'https://mfound.in/lost&found/sk5VHaAOivB1ms6c', `image` = '1575437977134.jpg'"},"level":"error","message":"API - /api/v2/docs"}
